@@ -71,7 +71,8 @@
         <module>docx-engine</module>
         <module>xml-engine</module>
 		<module>document-converter</module>
-    </modules>
+		<module>validator</module>
+	</modules>
     <dependencyManagement>
         <dependencies>
             <dependency>
